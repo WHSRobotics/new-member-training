@@ -4,7 +4,7 @@ public class TrainingProgram {
     System.out.println("My favorite robot is R2-D2.");
     System.out.println("Can't wait for the Velocity Vortex season!");
     System.out.println("Better get ready!");
-	System.out.println("I like pi");
+	System.out.println("I like tau");
   }
   
   public void doThings(){
