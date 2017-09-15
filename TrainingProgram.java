@@ -5,7 +5,7 @@ public class TrainingProgram {
     System.out.println("Can't wait for the Velocity Vortex season!");
     System.out.println("Better get ready!");
 	System.out.println("I like pi");
-	//Prints out things
+	//CONFLICT!!!!!!!!
   }
   
   public void doThings(){
