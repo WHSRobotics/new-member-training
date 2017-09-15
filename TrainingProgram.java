@@ -6,4 +6,8 @@ public class TrainingProgram {
     System.out.println("Better get ready!");
 	System.out.println("I like pi");
   }
+  
+  public void doThings(){
+	  //stuff
+  }
 }
