@@ -9,6 +9,6 @@ public class TrainingProgram {
   }
   
   public void doThings(){
-	  //stuff
+	  //WHAT STUFF!
   }
 }
