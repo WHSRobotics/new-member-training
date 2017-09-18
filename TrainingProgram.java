@@ -5,7 +5,7 @@ public class TrainingProgram {
     System.out.println("Can't wait for the Velocity Vortex season!");
     System.out.println("Better get ready!");
 	System.out.println("I like tau and pi!");
-	//words do not go here.  NEVER!!!!!!!!
+	//Amar is the best!!!!!!!!
   }
   
   public void doThings(){
